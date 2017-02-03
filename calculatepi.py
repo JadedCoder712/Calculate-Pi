@@ -2,7 +2,7 @@
 calculatepi.py
 Author: Kyle Postans
 Credit: Myself
-Assignment:
+Assignment: Calculating Pi
 
 Write and submit a Python program that computes an approximate value of π by calculating the following sum:
 
